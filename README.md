@@ -1,6 +1,6 @@
 # web-ace-downloader-for-windows
 
-ウェブエース系列の漫画をダウンロードするソフトウェア<br>
+ウェブエースの漫画をダウンロードするソフトウェア<br>
 Windows 上でのみ動作します<br>
 
 ## 注意
