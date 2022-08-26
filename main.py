@@ -254,9 +254,7 @@ class progress_window:
                 self.jpd.auto_list_download(url=url, **kwargs)
                 url = self.jpd.product["next_readable"]
                 self.add_log(
-                    "ダウンロードが完了しました: {title}".format(
-                        title=self.jpd.product["title"]
-                    )
+                    "ダウンロードが完了しました: {title}".format(title=self.jpd.product["title"])
                 )
                 if not next_flag:
                     self._exit()
